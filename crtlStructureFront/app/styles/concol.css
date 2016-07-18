@@ -1,0 +1,30 @@
+#bottom {
+    padding: 20px 0px 40px 0px;
+    background: #3b3b3b;
+    border-top: 5px solid #B92734;
+}
+
+.footer-block{
+  color: #aaa;
+}
+
+.footer-block .block > h2{
+  font-size: 16px;
+  margin-bottom: 10px;
+  padding: 10px 0px;
+  color:#fff;
+  text-transform: uppercase;
+}
+
+/* Footer */
+
+.site-footer{
+  padding: 10px 0px;
+  background:#292929;
+  font-size: 12px;
+}
+.loginConcol{
+margin-top: 5%;
+margin-bottom: 6%;
+
+}
